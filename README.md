@@ -80,6 +80,6 @@
 
 <div align="center">
     <a href="https://git.io/typing-svg" target="_blank">
-        <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I+will+made+my+Gooogle!" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I+will+made+new+Dooogle!+))" alt="Typing SVG" />
     </a>
 </div>
