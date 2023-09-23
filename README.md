@@ -67,7 +67,7 @@
 
 <div align="center">
     <a href=mailto:ivan86.ivashchenko@gmail.com>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3884FF,90:0032A8&height=120&section=footer&text=looking%20for%20a%20job&animation=fadeIn&fontColor=fff&fontSize=14&fontAlign=78&fontAlignY=80&descSize=20&descAlign=94&descAlignY=3"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3884FF,90:0032A8&height=120&section=footer&text=ivan86.ivashchenko@gmail.com&animation=fadeIn&fontColor=fff&fontSize=14&fontAlign=78&fontAlignY=80&descSize=20&descAlign=94&descAlignY=3"/>
     </a>
 </div>
 <p></p>
@@ -80,6 +80,6 @@
 
 <div align="center">
     <a href="https://git.io/typing-svg" target="_blank">
-        <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I+will+made+new+Dooogle!+))" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Looking+for+a+job...)" alt="Typing SVG" />
     </a>
 </div>
