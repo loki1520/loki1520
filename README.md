@@ -78,7 +78,7 @@
     </a>
 </div>
 
-<div align="left">
+<div style="margin-left: 40px;">
     <a href="https://git.io/typing-svg" target="_blank">
         <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Looking+for+a+job...)" alt="Typing SVG" />
     </a>
