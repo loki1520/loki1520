@@ -83,4 +83,8 @@
         <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Looking+for+a+job...)" alt="Typing SVG" />
     </a>
 </div>
-![Alt Text](https://media.giphy.com/media/6heBQSjt2IoA8/giphy.gif)
+<div align="center">
+    <a href="https://git.io/typing-svg" target="_blank">
+        <img src="https://media.giphy.com/media/6heBQSjt2IoA8/giphy.gif" alt="!!!" />
+    </a>
+</div>
